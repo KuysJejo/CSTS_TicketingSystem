@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|c:\\users\\kuysjejo\\desktop\\ticketingsystem\\frmuserslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|solutionrelative:frmuserslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|c:\\users\\kuysjejo\\desktop\\ticketingsystem\\frmuserdeets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|solutionrelative:frmuserdeets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|c:\\users\\kuysjejo\\desktop\\ticketingsystem\\frmuseradd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|solutionrelative:frmuseradd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|c:\\users\\kuysjejo\\desktop\\ticketingsystem\\frmticketview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|solutionrelative:frmticketview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|c:\\users\\kuysjejo\\desktop\\ticketingsystem\\frmticketnoteview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|solutionrelative:frmticketnoteview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|c:\\users\\kuysjejo\\desktop\\ticketingsystem\\frmticketadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|solutionrelative:frmticketadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|c:\\users\\kuysjejo\\desktop\\ticketingsystem\\frmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|solutionrelative:frmprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|c:\\users\\kuysjejo\\desktop\\ticketingsystem\\frmcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|solutionrelative:frmcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|c:\\users\\kuysjejo\\desktop\\ticketingsystem\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|c:\\users\\kuysjejo\\desktop\\ticketingsystem\\frmhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|solutionrelative:frmhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\mynotes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|solutionrelative:mynotes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|c:\\users\\kuysjejo\\desktop\\ticketingsystem\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|solutionrelative:ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|c:\\users\\kuysjejo\\desktop\\ticketingsystem\\frmticketview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|solutionrelative:frmticketview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_KUYSJEJO_DESKTOP_TICKETINGSYSTEM_TICKETINGSYSTEMDB.MDF/True/SqlTable/dbo.tblTicketsList.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|c:\\users\\kuysjejo\\desktop\\ticketingsystem\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|solutionrelative:currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|c:\\users\\kuysjejo\\desktop\\ticketingsystem\\frmticketview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|solutionrelative:frmticketview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "myNOTES.txt",
+              "DocumentMoniker": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\myNOTES.txt",
+              "RelativeDocumentMoniker": "myNOTES.txt",
+              "ToolTip": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\myNOTES.txt",
+              "RelativeToolTip": "myNOTES.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-06T01:32:49.808Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmTicketAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\frmTicketAdd.cs",
+              "RelativeDocumentMoniker": "frmTicketAdd.cs",
+              "ToolTip": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\frmTicketAdd.cs [Design]",
+              "RelativeToolTip": "frmTicketAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:42:57.293Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmTicketNoteView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\frmTicketNoteView.cs",
+              "RelativeDocumentMoniker": "frmTicketNoteView.cs",
+              "ToolTip": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\frmTicketNoteView.cs [Design]",
+              "RelativeToolTip": "frmTicketNoteView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:42:59.341Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmTicketView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\frmTicketView.cs",
+              "RelativeDocumentMoniker": "frmTicketView.cs",
+              "ToolTip": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\frmTicketView.cs [Design]",
+              "RelativeToolTip": "frmTicketView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:21:41.62Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmUserAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\frmUserAdd.cs",
+              "RelativeDocumentMoniker": "frmUserAdd.cs",
+              "ToolTip": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\frmUserAdd.cs [Design]",
+              "RelativeToolTip": "frmUserAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:43:15.659Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmUserDeets.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\frmUserDeets.cs",
+              "RelativeDocumentMoniker": "frmUserDeets.cs",
+              "ToolTip": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\frmUserDeets.cs [Design]",
+              "RelativeToolTip": "frmUserDeets.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:43:18.509Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmUsersList.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\frmUsersList.cs",
+              "RelativeDocumentMoniker": "frmUsersList.cs",
+              "ToolTip": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\frmUsersList.cs [Design]",
+              "RelativeToolTip": "frmUsersList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:43:21.512Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\frmProfile.cs",
+              "RelativeDocumentMoniker": "frmProfile.cs",
+              "ToolTip": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\frmProfile.cs [Design]",
+              "RelativeToolTip": "frmProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:42:55.514Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmCategories.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\frmCategories.cs",
+              "RelativeDocumentMoniker": "frmCategories.cs",
+              "ToolTip": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\frmCategories.cs [Design]",
+              "RelativeToolTip": "frmCategories.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:42:38.111Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\frmLogin.cs",
+              "RelativeDocumentMoniker": "frmLogin.cs",
+              "ToolTip": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\frmLogin.cs [Design]",
+              "RelativeToolTip": "frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:42:40.83Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmHomePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\frmHomePage.cs",
+              "RelativeDocumentMoniker": "frmHomePage.cs",
+              "ToolTip": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\frmHomePage.cs [Design]",
+              "RelativeToolTip": "frmHomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:44:26.872Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmTicketView.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\frmTicketView.Designer.cs",
+              "RelativeDocumentMoniker": "frmTicketView.Designer.cs",
+              "ToolTip": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\frmTicketView.Designer.cs",
+              "RelativeToolTip": "frmTicketView.Designer.cs",
+              "ViewState": "AgIAAEgCAAAAAAAAAAAgwFQCAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:27:34.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmTicketView.cs",
+              "DocumentMoniker": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\frmTicketView.cs",
+              "RelativeDocumentMoniker": "frmTicketView.cs",
+              "ToolTip": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\frmTicketView.cs",
+              "RelativeToolTip": "frmTicketView.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAEwIoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:01:17.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\Ticket.cs",
+              "RelativeDocumentMoniker": "Ticket.cs",
+              "ToolTip": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\Ticket.cs",
+              "RelativeToolTip": "Ticket.cs",
+              "ViewState": "AgIAABgCAAAAAAAAAAAswEMCAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:16:20.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "CurrentUser.cs",
+              "ToolTip": "C:\\Users\\KuysJejo\\Desktop\\TicketingSystem\\CurrentUser.cs",
+              "RelativeToolTip": "CurrentUser.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAswGMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:41:40.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbo.tblTicketsList [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_KUYSJEJO_DESKTOP_TICKETINGSYSTEM_TICKETINGSYSTEMDB.MDF/True/SqlTable/dbo.tblTicketsList.sql",
+              "ToolTip": "dbo.tblTicketsList [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-16T05:03:53.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

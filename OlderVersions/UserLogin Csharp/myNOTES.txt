@@ -1,0 +1,41 @@
+﻿features to add:
+	queue sabi ni sir
+	timer to auto refresh tickets on admin view
+		they can set the refresh time
+		will not activate when search is active
+	add a condition to lock a ticket and a button to unlock when a ticket is open with someone
+	add number of open, pending, worked on tickets etc
+
+
+
+
+
+
+
+
+----START
+
+
+	categories:
+		when updating categories, update those tickets that are not closed yet to the same category
+		check if category exist first
+	Users List
+
+		User Add
+		   check if user exist first
+	user add ticket
+	admin view
+
+	tab stops
+
+	toolstrip	
+
+----END
+
+
+DONE:
+	login form
+	categories form
+	Profile form
+
+

@@ -1,0 +1,102 @@
+﻿features to add:
+	queue sabi ni sir
+	timer to auto refresh tickets on admin view
+		they can set the refresh time
+		will not activate when search is active
+	add a condition to lock a ticket and a button to unlock when a ticket is open with someone
+	add number of open, pending, worked on tickets etc
+
+
+
+
+
+	STATUSES:
+
+	active
+	New
+	In Progress (returned by user to admin)
+	Pending (returned to user)
+
+	inactive
+	Cancelled (cancellec by the user)
+	Closed (marked as resolve by admin)
+
+
+
+
+
+
+
+
+----START
+
+	new ticket: adding category:
+		how to prevent from selecting inputs.
+
+
+	homepage:
+		search
+		filter
+		count
+
+	    load active tickets only
+
+		remove from queue if active
+
+
+	Notes: 
+		list unread for users
+
+
+
+
+	user:
+		view tickets
+
+		update tickets
+
+	admin: 
+		view
+
+		update
+
+	
+
+
+
+	categories:
+		when updating categories, update those tickets that are not closed yet to the same category
+		check if category exist first
+
+	last modified by
+
+
+	tab stops
+
+	form size
+
+	change enalbed to readonly instead
+
+	join sql database to be able to search tickets via requestor name
+
+	toolstrip	
+
+
+
+----END
+
+
+DONE:
+	login form
+	categories form
+	Profile form
+	users forms
+
+
+
+	documentation:
+		search via 
+			category
+			title
+			description
+			id

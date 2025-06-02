@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KuysJejo\\Desktop\\UserLogin Csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|c:\\users\\kuysjejo\\desktop\\userlogin csharp\\mynotes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC88A382-0778-4B9A-96CF-C8EA6D96BCB4}|TicketingSystem.csproj|solutionrelative:mynotes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "myNOTES.txt",
+              "DocumentMoniker": "C:\\Users\\KuysJejo\\Desktop\\UserLogin Csharp\\myNOTES.txt",
+              "RelativeDocumentMoniker": "myNOTES.txt",
+              "ToolTip": "C:\\Users\\KuysJejo\\Desktop\\UserLogin Csharp\\myNOTES.txt",
+              "RelativeToolTip": "myNOTES.txt",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-06T01:32:49.808Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
